@@ -1,0 +1,3 @@
+[submodule "themes/yara3i-icarus"]
+	path = themes/yara3i-icarus
+	url = git@github.com:fellaga/hexo-icarus-yara3i-theme.git

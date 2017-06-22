@@ -4,11 +4,11 @@
 
 # Site
 title: يراعي
-subtitle: 
+subtitle: راحة للعقل والضمير، وجولة في رحاب الفطرة
 description: باقة من المقالات الشيقة والمفيدة،  
 author: يراعي
-language:
-timezone:
+language: ar
+timezone: Africa/Algiers
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
